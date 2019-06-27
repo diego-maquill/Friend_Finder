@@ -1,5 +1,5 @@
 body {
-    width: 75%;
+    width: 100%;
    margin: 0px auto; 
 
    display: flex;
@@ -47,5 +47,5 @@ main h1 {
 }
 
 #mainpanel-content {
-    margin: 50px;
+    margin: 50px 10px 50px 10px;
 }

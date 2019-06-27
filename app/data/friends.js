@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
     {
-        name: 'Scooter',
-        photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+        name: 'Mark',
+        photo: 'https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQyMDA0NDgwMzUzNzcyNjA2/mark-zuckerberg_gettyimages-512304736jpg.jpg',
         scores: [
             '1',
             '5',
@@ -17,8 +17,8 @@ var friendsArray = [
         ]
     },
     {
-        name: 'Fluffy',
-        photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+        name: 'Johny',
+        photo: 'https://www.imdb.com/name/nm0000136/mediaviewer/rm1868675328',
         scores: [
             '2',
             '4',
@@ -33,7 +33,7 @@ var friendsArray = [
         ]
     },
     {
-        name: 'Spencer',
+        name: 'Simon',
         photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
         scores: [
             '4',
@@ -49,8 +49,8 @@ var friendsArray = [
         ]
     },
     {
-        name: 'Zackariah',
-        photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+        name: 'Thomas',
+        photo: 'https://secure.i.telegraph.co.uk/multimedia/archive/03300/thomas-1_3300146b.jpg',
         scores: [
             '5',
             '1',
@@ -65,8 +65,8 @@ var friendsArray = [
         ]
     },
     {
-        name: 'Cloe',
-        photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+        name: 'Anna',
+        photo: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Anna_Rudolf_2016_%28cropped%29.jpg',
         scores: [
             '1',
             '1',
@@ -81,8 +81,8 @@ var friendsArray = [
         ]
     },
     {
-        name: 'Mrs. Piggy',
-        photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+        name: 'Maria',
+        photo: 'https://warlu.com/wp-content/uploads/sites/17/maria-nampijinpa-brown-300x300.jpg',
         scores: [
             '1',
             '1',
@@ -97,7 +97,7 @@ var friendsArray = [
         ]
     },
     {
-        name: 'Beyonce Knowles',
+        name: 'Beyonce',
         photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
         scores: [
             '5',
@@ -113,7 +113,7 @@ var friendsArray = [
         ]
     },
     {
-        name: 'Adele Adkins',
+        name: 'Adele',
         photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
         scores: [
             '5',
@@ -129,8 +129,8 @@ var friendsArray = [
         ]
     },
     {
-        name: 'Kermit the Frog',
-        photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+        name: 'Shanaya',
+        photo: 'https://images.news18.com/ibnlive/uploads/2019/02/Shanaya-Kapoor.jpg',
         scores: [
             '5',
             '5',
