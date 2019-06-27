@@ -12,7 +12,9 @@ app.use(express.static(path.join(__dirname, './public')));
 
 // Add middleware for parsing incoming request bodies
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({
+    extended: true
+}));
 app.use(bodyParser.text());
 
 // Add the application routes
